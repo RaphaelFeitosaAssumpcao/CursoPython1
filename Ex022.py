@@ -1,4 +1,4 @@
-# Crie um projeto onde a nmáquina pense em um número de 0 a 5 e o usuário tente adivinhar.
+#Crie um projeto onde a nmáquina pense em um número de 0 a 5 e o usuário tente adivinhar.
 import random
 from time import sleep
 print('-=-' * 20)
